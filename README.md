@@ -61,3 +61,10 @@ import { Row, Col } from 'reactism-grid'
   <Col md="5">Column 2</Col>
 </Row>
 ```
+
+|Name|Type|Default|Description|
+|--|--|--|--|
+|sm|number, string|null|Small media query. When the width is smaller than **575.98px**, width will be change to **100%**|
+|md|number, string|null|Medium media query. When the width is smaller than **767.98px**, width will be change to **100%**|
+|lg|number, string|null|Large media query. When the width is smaller than **991.98px**, width will be change to **100%**|
+|xl|number, string|null|Extra large media query. When the width is smaller than **1199.98**, width will be change to **100%**|
