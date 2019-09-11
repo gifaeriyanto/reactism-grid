@@ -1,7 +1,5 @@
-import React from 'react';
+import Row from './row';
+import Col from './col';
+import Container from './container';
 
-const Fancy = () => (
-  <div>This is so Fancy!</div>
-);
-
-export default Fancy;
+export { Row, Col, Container };
