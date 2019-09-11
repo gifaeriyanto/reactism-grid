@@ -1,11 +1,11 @@
 {
-  "name": "react-grid-bootstrap",
-  "version": "1.0.0",
+  "name": "reactism-grid",
+  "version": "1.0.2",
   "description": "Grid system for react.js project reference by bootstrap 4.",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GifaEriyanto/react-grid-bootstrap.git"
+    "url": "git+https://github.com/GifaEriyanto/reactism-grid.git"
   },
   "keywords": [
     "grid",
@@ -14,9 +14,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GifaEriyanto/react-grid-bootstrap/issues"
+    "url": "https://github.com/GifaEriyanto/reactism-grid/issues"
   },
-  "homepage": "https://github.com/GifaEriyanto/react-grid-bootstrap#readme",
+  "homepage": "https://github.com/GifaEriyanto/reactism-grid#readme",
   "peerDependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
