@@ -1,0 +1,48 @@
+{
+  "name": "react-grid-bootstrap",
+  "version": "1.0.0",
+  "description": "Grid system for react.js project reference by bootstrap 4.",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GifaEriyanto/react-grid-bootstrap.git"
+  },
+  "keywords": [
+    "grid",
+    "layout",
+    "bootstrap-grid"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GifaEriyanto/react-grid-bootstrap/issues"
+  },
+  "homepage": "https://github.com/GifaEriyanto/react-grid-bootstrap#readme",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development",
+    "start": "webpack --watch --mode=production",
+    "dev": "webpack --watch --mode=development"
+  },
+  "author": {
+    "name": "Gifa Eriyanto",
+    "email": "gifa.eriyanto@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "webpack-cli": "^3.3.8"
+  }
+}
