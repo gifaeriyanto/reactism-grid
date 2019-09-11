@@ -26,4 +26,4 @@ The container will create a boxed layout with max width **1346px** by default, y
 |--|--|--|--|
 |size|number, string|1346|Max width for the container|
 |gutter|number, string|32|Spacing between column|
-|padding|number, string|32|Extra control to give padding for the container|
+|padding|number, string|null|Extra control to give padding for the container|
