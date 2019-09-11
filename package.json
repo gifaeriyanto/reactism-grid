@@ -1,6 +1,6 @@
 {
   "name": "reactism-grid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Grid system for react.js project reference by bootstrap 4.",
   "main": "build/index.js",
   "repository": {
