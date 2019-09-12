@@ -2,6 +2,14 @@
 
 Grid system for react.js project reference by bootstrap 4.
 
+## Instalation
+
+For npm
+```npm i reactism-grid```
+
+or yarn
+```yarn add reactism-grid```
+
 ## Grid Structure
 
 This is basic example to using the grid.
